@@ -1,0 +1,21 @@
+{
+  "name": "frontend-package-managers",
+  "homepage": "https://github.com/kunal-kursija/frontend-package-managers",
+  "description": "My first bower json file.",
+  "main": "index.html",
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "bower",
+    "npm",
+    "gulp",
+    "grunt"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json"
+  ]
+}
